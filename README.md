@@ -20,7 +20,7 @@ Une landing page moderne et responsive pour un espace de coworking professionnel
 ## Installation locale
 
 ```bash
-git clone https://github.com/ton-pseudo/cowork-landing-page.git
+git clone https://github.com/gery-guedegbe/cowork-landing-page.git
 cd cowork-landing-page
 npm install
 npm run dev
