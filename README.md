@@ -15,7 +15,7 @@ Une landing page moderne et responsive pour un espace de coworking professionnel
 
 ## Lien en ligne
 
-> [https://cowork-landing-page.vercel.app/](https://cowork-landing-page.vercel.app/) _(à modifier selon ton déploiement)_
+> [https://cowork-landing-page.vercel.app/](https://cowork-landing-page.vercel.app/)
 
 ## Installation locale
 
@@ -30,4 +30,4 @@ npm run dev
 
 Les contributions sont les bienvenues ! Si tu veux proposer une amélioration, corriger un bug ou ajouter une fonctionnalité, n'hésite pas à ouvrir une pull request.
 
-Projet réalisé à des fins d’apprentissage, de pratique et de démonstration d’un design web moderne et dynamique.
+_Projet réalisé à des fins d’apprentissage, de pratique et de démonstration d’un design web moderne et dynamique._
