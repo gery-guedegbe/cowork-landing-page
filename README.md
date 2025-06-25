@@ -15,7 +15,7 @@ Une landing page moderne et responsive pour un espace de coworking professionnel
 
 ## Lien en ligne
 
-> [https://cowork-landing-page.vercel.app](https://cowork-landing-page.vercel.app) _(à modifier selon ton déploiement)_
+> [https://cowork-landing-page.vercel.app/](https://cowork-landing-page.vercel.app/) _(à modifier selon ton déploiement)_
 
 ## Installation locale
 
